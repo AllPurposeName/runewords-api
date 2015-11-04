@@ -1,3 +1,3 @@
 class Property < ActiveRecord::Base
-  #has_and_belongs_to_many :runes
+  has_and_belongs_to_many :runewords
 end
