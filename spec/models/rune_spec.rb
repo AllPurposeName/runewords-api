@@ -21,13 +21,16 @@ RSpec.describe Rune, type: :model do
 
   describe "#runewords" do
     it "returns a list of associated runewords" do
-    rw_one_name = Runeword.create(name: "Malice")
-    rw_two_name = Runeword.create(name: "Fury")
+      rw_one_name = "Malice"
+      rw_two_name = "Fury"
+      rw_one = Runeword.create(name: rw_one_name)
+      rw_two = Runeword.create(name: rw_two_name)
 
-    Rune.create.runewords << [rw_one_name, rw_two_name]
+      Rune.create.runewords << [rw_one, rw_two]
 
-    expect(Rune.first.runewords.count).to      eq(2)
-    expect(Rune.first.runewords.first.name).to eq("Malice")
+      expect(Rune.first.runewords.count).to      eq(2)
+      expect(Rune.first.runewords.first.name).to eq(rw_one_name)
+      expect(Rune.first.runewords.last.name).to  eq(rw_two_name)
     end
   end
 end
