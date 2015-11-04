@@ -20,7 +20,7 @@ RSpec.describe Rune, type: :model do
   end
 
   describe "#runewords" do
-    it "retunrs a list of associated runewords" do
+    it "returns a list of associated runewords" do
     rw_one_name = Runeword.create(name: "Malice")
     rw_two_name = Runeword.create(name: "Fury")
 
