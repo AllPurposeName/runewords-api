@@ -1,0 +1,1129 @@
+{
+  "name" : "Ancient's Pledge",
+  "characterLevel" : "21",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Ral",
+      "resource_uri" : "/api/v1/runes/8"
+    },
+    {
+      "name" : "Ort",
+      "resource_uri" : "/api/v1/runes/9"
+    },
+    {
+      "name" : "Tal",
+      "resource_uri" : "/api/v1/runes/7"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Shields",
+      "resource_uri" : "/api/v1/item_types/shields"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+50% Enhanced Defense",
+      "resource_uri" : "/api/v1/properties/1"
+    },
+    {
+      "text" : "Cold Resist +43%",
+      "resource_uri" : "/api/v1/properties/3"
+    },
+    {
+      "text" : "Fire Resist +48%",
+      "resource_uri" : "/api/v1/properties/4"
+    },
+    {
+      "text" : "Lightning Resist +48%",
+      "resource_uri" : "/api/v1/properties/5"
+    },
+    {
+      "text" : "Poison Resist +48%",
+      "resource_uri" : "/api/v1/properties/6"
+    },
+    {
+      "text" : "10% Damage Taken Goes To Mana",
+      "resource_uri" : "/api/v1/properties/7"
+    }
+  ]
+},
+
+{
+  "name" : "Beast",
+  "characterLevel" : "63",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Ber",
+      "resource_uri" : "/api/v1/runes/30"
+    },
+    {
+      "name" : "Tir",
+      "resource_uri" : "/api/v1/runes/3"
+    },
+    {
+      "name" : "Um",
+      "resource_uri" : "/api/v1/runes/22"
+    },
+    {
+      "name" : "Mal",
+      "resource_uri" : "/api/v1/runes/Mal"
+    },
+    {
+      "name" : "Lum",
+      "resource_uri" : "/api/v1/runes/Lum"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Axes",
+      "resource_uri" : "/api/v1/item_types/axes"
+    },
+    {
+      "category" : "Scepters",
+      "resource_uri" : "/api/v1/item_types/scepters"
+    },
+    {
+      "category" : "Hammers",
+      "resource_uri" : "/api/v1/item_types/hammers"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "Level 9 Fanaticism Aura When Equipped",
+      "resource_uri" : "/api/v1/properties/aura/level_9_fanaticism"
+    },
+    {
+      "text" : "+40% Increased Attack Speed",
+      "resource_uri" : "/api/v1/properties/8"
+    },
+    {
+      "text" : "+240-270% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/2"
+    },
+    {
+      "text" : "20% Chance of Crushing Blow",
+      "resource_uri" : "/api/v1/properties/9"
+    },
+    {
+      "text" : "20% Chance of Open Wounds",
+      "resource_uri" : "/api/v1/properties/19"
+    },
+    {
+      "text" : "+3 to Werebear",
+      "resource_uri" : "/api/v1/properties/skills/14"
+    },
+    {
+      "text" : "+3 to Lycanthropy",
+      "resource_uri" : "/api/v1/properties/skills/15"
+    },
+    {
+      "text" : "Prevent Monster Heal",
+      "resource_uri" : "/api/v1/properties/11"
+    },
+    {
+      "text" : "+25-40 to Strength",
+      "resource_uri" : "/api/v1/properties/12"
+    },
+    {
+      "text" : "+10 to Energy",
+      "resource_uri" : "/api/v1/properties/14"
+    },
+    {
+      "text" : "+2 to Mana After Each Kill",
+      "resource_uri" : "/api/v1/properties/16"
+    },
+    {
+      "text" : "Level 13 Summon Grizzly (5 charges)",
+      "resource_uri" : "/api/v1/properties/charges/3"
+    }
+  ]
+},
+
+{
+  "name" : "Black",
+  "characterLevel" : "35",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Thul",
+      "resource_uri" : "/api/v1/runes/10"
+    },
+    {
+      "name" : "Io",
+      "resource_uri" : "/api/v1/runes/16"
+    },
+    {
+      "name" : "Nef",
+      "resource_uri" : "/api/v1/runes/4"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Clubs",
+      "resource_uri" : "/api/v1/item_types/clubs"
+    },
+    {
+      "category" : "Hammers",
+      "resource_uri" : "/api/v1/item_types/hammers"
+    },
+    {
+      "category" : "maces",
+      "resource_uri" : "/api/v1/item_types/maces"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+120% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/2"
+    },
+    {
+      "text" : "40% Chance Of Crushing Blow",
+      "resource_uri" : "/api/v1/properties/9"
+    },
+    {
+      "text" : "+200 To Attack Rating",
+      "resource_uri" : "/api/v1/properties/17"
+    },
+    {
+      "text" : "Adds 3-14 Cold Damage",
+      "resource_uri" : "/api/v1/properties/18"
+    },
+    {
+      "text" : "+10 To Vitality",
+      "resource_uri" : "/api/v1/properties/15"
+    },
+    {
+      "text" : "15% Increased Attack Speed",
+      "resource_uri" : "/api/v1/properties/8"
+    },
+    {
+      "text" : "Knockback",
+      "resource_uri" : "/api/v1/properties/42"
+    },
+    {
+      "text" : "Magic Damage Reduced By 2",
+      "resource_uri" : "/api/v1/properties/19"
+    },
+    {
+      "text" : "Level 4 Corpse Explosion (12 Charges)",
+      "resource_uri" : "/api/v1/properties/charges/4"
+    }
+  ]
+},
+
+{
+  "name" : "Fury",
+  "characterLevel" : "65",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Jah",
+      "resource_uri" : "/api/v1/runes/31"
+    },
+    {
+      "name" : "Gul",
+      "resource_uri" : "/api/v1/runes/25"
+    },
+    {
+      "name" : "Eth",
+      "resource_uri" : "/api/v1/runes/5"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "All Melee Weapons",
+      "resource_uri" : "/api/v1/item_types/all_melee_weapons"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+209% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/2"
+    },
+    {
+      "text" : "40% Increased Attack Speed",
+      "resource_uri" : "/api/v1/properties/8"
+    },
+    {
+      "text" : "Prevent Monster Heal",
+      "resource_uri" : "/api/v1/properties/11"
+    },
+    {
+      "text" : "66% Chance Of Open Wounds",
+      "resource_uri" : "/api/v1/properties/10"
+    },
+    {
+      "text" : "33% Deadly Strike",
+      "resource_uri" : "/api/v1/properties/20"
+    },
+    {
+      "text" : "Ignore Target's Defense",
+      "resource_uri" : "/api/v1/properties/21"
+    },
+    {
+      "text" : "-25% Target Defense",
+      "resource_uri" : "/api/v1/properties/39"
+    },
+    {
+      "text" : "20% Bonus To Attack Rating",
+      "resource_uri" : "/api/v1/properties/22"
+    },
+    {
+      "text" : "6% Life Stolen Per Hit",
+      "resource_uri" : "/api/v1/properties/23"
+    },
+    {
+      "text" : "+5 To Frenzy (Barbarian Only)",
+      "resource_uri" : "/api/v1/properties/skills/1"
+    }
+  ]
+},
+
+{
+  "name" : "Holy Thunder",
+  "characterLevel" : "21",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Eth",
+      "resource_uri" : "/api/v1/runes/5"
+    },
+    {
+      "name" : "Ral",
+      "resource_uri" : "/api/v1/runes/8"
+    },
+    {
+      "name" : "Ort",
+      "resource_uri" : "/api/v1/runes/9"
+    },
+    {
+      "name" : "Tal",
+      "resource_uri" : "/api/v1/runes/7"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Scepters",
+      "resource_uri" : "/api/v1/item_types/scepters"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+60% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/2"
+    },
+    {
+      "text" : "-25% Target Defense",
+      "resource_uri" : "/api/v1/properties/39"
+    },
+    {
+      "text" : "Adds 5-30 Fire Damage",
+      "resource_uri" : "/api/v1/properties/31"
+    },
+    {
+      "text" : "Adds 21-110 Lightning Damage",
+      "resource_uri" : "/api/v1/properties/32"
+    },
+    {
+      "text" : "+75 Poison Damage Over 5 Seconds",
+      "resource_uri" : "/api/v1/properties/33"
+    },
+    {
+      "text" : "+10 To Maximum Damage",
+      "resource_uri" : "/api/v1/properties/25"
+    },
+    {
+      "text" : "Lighting Resist +60%",
+      "resource_uri" : "/api/v1/properties/32"
+    },
+    {
+      "text" : "+5 To Maximum Lightning Resistance",
+      "resource_uri" : "/api/v1/properties/51"
+    },
+    {
+      "text" : "+3 To Holy Shock (Paladin Only)",
+      "resource_uri" : "/api/v1/properties/skills/2"
+    },
+    {
+      "text" : "Level 7 Chain Lightning (60 Charges)",
+      "resource_uri" : "/api/v1/properties/charges/1"
+    }
+  ]
+},
+
+{
+  "name" : "Honor",
+  "characterLevel" : "27",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Amn",
+      "resource_uri" : "/api/v1/runes/11"
+    },
+    {
+      "name" : "El",
+      "resource_uri" : "/api/v1/runes/1"
+    },
+    {
+      "name" : "Ith",
+      "resource_uri" : "/api/v1/runes/6"
+    },
+    {
+      "name" : "Tir",
+      "resource_uri" : "/api/v1/runes/3"
+    },
+    {
+      "name" : "Sol",
+      "resource_uri" : "/api/v1/runes/12"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "All Melee Weapons",
+      "resource_uri" : "/api/v1/item_types/all_melee_weapons"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+160% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/2"
+    },
+    {
+      "text" : "+9 To Minimum Damage",
+      "resource_uri" : "/api/v1/properties/24"
+    },
+    {
+      "text" : "25% Deadly Strike",
+      "resource_uri" : "/api/v1/properties/20"
+    },
+    {
+      "text" : "+250 To Attack Rating",
+      "resource_uri" : "/api/v1/properties/17"
+    },
+    {
+      "text" : "+1 To All Skills",
+      "resource_uri" : "/api/v1/properties/26"
+    },
+    {
+      "text" : "7% Life Stolen Per Hit",
+      "resource_uri" : "/api/v1/properties/23"
+    },
+    {
+      "text" : "Replenish Life +10",
+      "resource_uri" : "/api/v1/properties/27"
+    },
+    {
+      "text" : "+10 To Strength",
+      "resource_uri" : "/api/v1/properties/12"
+    },
+    {
+      "text" : "+1 To Light Radius",
+      "resource_uri" : "/api/v1/properties/28"
+    },
+    {
+      "text" : "+2 To Mana After Each Kill",
+      "resource_uri" : "/api/v1/properties/16"
+    }
+  ]
+},
+
+{
+  "name" : "King's Grace",
+  "characterLevel" : "25",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Amn",
+      "resource_uri" : "/api/v1/runes/11"
+    },
+    {
+      "name" : "Ral",
+      "resource_uri" : "/api/v1/runes/8"
+    },
+    {
+      "name" : "Thul",
+      "resource_uri" : "/api/v1/runes/10"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Scepters",
+      "resource_uri" : "/api/v1/item_types/scepters"
+    },
+    {
+      "category" : "Swords",
+      "resource_uri" : "/api/v1/item_types/swords"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+100% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/2"
+    },
+    {
+      "text" : "+100% Damage To Demons",
+      "resource_uri" : "/api/v1/properties/29"
+    },
+    {
+      "text" : "+50% Damage To Undead",
+      "resource_uri" : "/api/v1/properties/30"
+    },
+    {
+      "text" : "Adds 5-30 Fire Damage",
+      "resource_uri" : "/api/v1/properties/31"
+    },
+    {
+      "text" : "Adds 3-14 Cold Damage",
+      "resource_uri" : "/api/v1/properties/18"
+    },
+    {
+      "text" : "+150 To Attack Rating",
+      "resource_uri" : "/api/v1/properties/17"
+    },
+    {
+      "text" : "+100 To Attack Rating Against Demons",
+      "resource_uri" : "/api/v1/properties/34"
+    },
+    {
+      "text" : "+100 To Attack Rating Against Undead",
+      "resource_uri" : "/api/v1/properties/35"
+    },
+    {
+      "text" : "7% Life Stolen Per Hit",
+      "resource_uri" : "/api/v1/properties/23"
+    }
+  ]
+},
+
+{
+  "name" : "Leaf",
+  "characterLevel" : "19",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Tir",
+      "resource_uri" : "/api/v1/runes/3"
+    },
+    {
+      "name" : "Ral",
+      "resource_uri" : "/api/v1/runes/8"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Staves",
+      "resource_uri" : "/api/v1/item_types/staves"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "Adds 5-30 Fire Damage",
+      "resource_uri" : "/api/v1/properties/31"
+    },
+    {
+      "text" : "+3 To Fire Skills",
+      "resource_uri" : "/api/v1/properties/skills/3"
+    },
+    {
+      "text" : "+3 To Fire Bolt (Sorceress Only)",
+      "resource_uri" : "/api/v1/properties/skills/4"
+    },
+    {
+      "text" : "+3 To Inferno (Sorceress Only)",
+      "resource_uri" : "/api/v1/properties/skills/5"
+    },
+    {
+      "text" : "+3 To Warmth (Sorceress Only)",
+      "resource_uri" : "/api/v1/properties/skills/6"
+    },
+    {
+      "text" : "+2 To Mana After Each Kill",
+      "resource_uri" : "/api/v1/properties/16"
+    },
+    {
+      "text" : "+2-198 To Defense (+2 Per Character Level)",
+      "resource_uri" : "/api/v1/properties/52"
+    },
+    {
+      "text" : "Cold Resist +33%",
+      "resource_uri" : "/api/v1/properties/3"
+    }
+  ]
+},
+
+{
+  "name" : "Lionheart",
+  "characterLevel" : "41",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Hel",
+      "resource_uri" : "/api/v1/runes/15"
+    },
+    {
+      "name" : "Lum",
+      "resource_uri" : "/api/v1/runes/17"
+    },
+    {
+      "name" : "Fal",
+      "resource_uri" : "/api/v1/runes/19"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Body Armor",
+      "resource_uri" : "/api/v1/item_types/body_armor"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+20% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/2"
+    },
+    {
+      "text" : "Requirements -15%",
+      "resource_uri" : "/api/v1/properties/36"
+    },
+    {
+      "text" : "+25 To Strength",
+      "resource_uri" : "/api/v1/properties/12"
+    },
+    {
+      "text" : "+10 To Energy",
+      "resource_uri" : "/api/v1/properties/14"
+    },
+    {
+      "text" : "+20 To Vitality",
+      "resource_uri" : "/api/v1/properties/15"
+    },
+    {
+      "text" : "+15 To Dexterity",
+      "resource_uri" : "/api/v1/properties/13"
+    },
+    {
+      "text" : "+50 To Life",
+      "resource_uri" : "/api/v1/properties/37"
+    },
+    {
+      "text" : "All Resistances +30",
+      "resource_uri" : "/api/v1/properties/38"
+    }
+  ]
+},
+
+{
+  "name" : "Lore",
+  "characterLevel" : "27",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Ort",
+      "resource_uri" : "/api/v1/runes/9"
+    },
+    {
+      "name" : "Sol",
+      "resource_uri" : "/api/v1/runes/12"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Helms",
+      "resource_uri" : "/api/v1/item_types/helms"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+1 To All Skills",
+      "resource_uri" : "/api/v1/properties/26"
+    },
+    {
+      "text" : "+10 To Energy",
+      "resource_uri" : "/api/v1/properties/14"
+    },
+    {
+      "text" : "+2 To Mana After Each Kill",
+      "resource_uri" : "/api/v1/properties/16"
+    },
+    {
+      "text" : "Lightning Resist +30%",
+      "resource_uri" : "/api/v1/properties/5"
+    },
+    {
+      "text" : "Damage Reduced By 7",
+      "resource_uri" : "/api/v1/properties/53"
+    },
+    {
+      "text" : "+2 To Light Radius",
+      "resource_uri" : "/api/v1/properties/28"
+    }
+  ]
+},
+
+{
+  "name" : "Malice",
+  "characterLevel" : "15",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "ith",
+      "resource_uri" : "/api/v1/runes/6"
+    },
+    {
+      "name" : "el",
+      "resource_uri" : "/api/v1/runes/1"
+    },
+    {
+      "name" : "eth",
+      "resource_uri" : "/api/v1/runes/5"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "All Melee Weapons",
+      "resource_uri" : "/api/v1/item_types/all_melee_weapons"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+33% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/2"
+    },
+    {
+      "text" : "+9 to Maximum Damage",
+      "resource_uri" : "/api/v1/properties/25"
+    },
+    {
+      "text" : "-25% Target Defense",
+      "resource_uri" : "/api/v1/properties/39"
+    },
+    {
+      "text" : "+50 to Attack Rating",
+      "resource_uri" : "/api/v1/properties/17"
+    },
+    {
+      "text" : "100% Chance of Open wounds",
+      "resource_uri" : "/api/v1/properties/10"
+    },
+    {
+      "text" : "Prevent Monster Heal",
+      "resource_uri" : "/api/v1/properties/11"
+    },
+    {
+      "text" : "-100 to Monster Defense Per Hit",
+      "resource_uri" : "/api/v1/properties/40"
+    },
+    {
+      "text" : "Drain Life -5",
+      "resource_uri" : "/api/v1/properties/41"
+    }
+  ]
+},
+
+{
+  "name" : "Melody",
+  "characterLevel" : "39",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Shael",
+      "resource_uri" : "/api/v1/runes/13"
+    },
+    {
+      "name" : "Ko",
+      "resource_uri" : "/api/v1/runes/18"
+    },
+    {
+      "name" : "Nef",
+      "resource_uri" : "/api/v1/runes/4"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Missile Weapons",
+      "resource_uri" : "/api/v1/item_types/missile_weapons"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+50% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/2"
+    },
+    {
+      "text" : "+300% Damage To Undead",
+      "resource_uri" : "/api/v1/properties/30"
+    },
+    {
+      "text" : "+3 To Bow and Crossbow Skills (Amazon Only)",
+      "resource_uri" : "/api/v1/properties/skills/7"
+    },
+    {
+      "text" : "+3 To Critical Strike (Amazon Only)",
+      "resource_uri" : "/api/v1/properties/skills/8"
+    },
+    {
+      "text" : "+3 To Dodge (Amazon only)",
+      "resource_uri" : "/api/v1/properties/skills/9"
+    },
+    {
+      "text" : "+3 To Slow Missiles (Amazon Only)",
+      "resource_uri" : "/api/v1/properties/skills/10"
+    },
+    {
+      "text" : "+20% Increased Attack Speed",
+      "resource_uri" : "/api/v1/properties/8"
+    },
+    {
+      "text" : "+10 To Dexterity",
+      "resource_uri" : "/api/v1/properties/13"
+    },
+    {
+      "text" : "Knockback",
+      "resource_uri" : "/api/v1/properties/42"
+    }
+  ]
+},
+
+{
+  "name" : "Memory",
+  "characterLevel" : "37",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Lum",
+      "resource_uri" : "/api/v1/runes/17"
+    },
+    {
+      "name" : "Io",
+      "resource_uri" : "/api/v1/runes/16"
+    },
+    {
+      "name" : "Sol",
+      "resource_uri" : "/api/v1/runes/12"
+    },
+    {
+      "name" : "Eth",
+      "resource_uri" : "/api/v1/runes/5"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Staves",
+      "resource_uri" : "/api/v1/item_types/staves"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+3 to Sorceress Skill Levels",
+      "resource_uri" : "/api/v1/properties/skills/11"
+    },
+    {
+      "text" : "33% Faster Cast Rate",
+      "resource_uri" : "/api/v1/properties/43"
+    },
+    {
+      "text" : "Increase Maximum Mana 20%",
+      "resource_uri" : "/api/v1/properties/44"
+    },
+    {
+      "text" : "+3 Energy Shield (Sorceress only)",
+      "resource_uri" : "/api/v1/properties/skills/12"
+    },
+    {
+      "text" : "+2 Static Field (Sorceress only)",
+      "resource_uri" : "/api/v1/properties/skills/13"
+    },
+    {
+      "text" : "+10 To Energy",
+      "resource_uri" : "/api/v1/properties/14"
+    },
+    {
+      "text" : "+10 To Vitality",
+      "resource_uri" : "/api/v1/properties/15"
+    },
+    {
+      "text" : "+9 To Minimum Damage",
+      "resource_uri" : "/api/v1/properties/24"
+    },
+    {
+      "text" : "-25% Target Defense",
+      "resource_uri" : "/api/v1/properties/39"
+    },
+    {
+      "text" : "Magic Damage Reduced By 7",
+      "resource_uri" : "/api/v1/properties/19"
+    },
+    {
+      "text" : "+50% Enhanced Defense",
+      "resource_uri" : "/api/v1/properties/1"
+    }
+  ]
+},
+
+{
+  "name" : "Nadir",
+  "characterLevel" : "13",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Nef",
+      "resource_uri" : "/api/v1/runes/4"
+    },
+    {
+      "name" : "Tir",
+      "resource_uri" : "/api/v1/runes/3"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Helms",
+      "resource_uri" : "/api/v1/item_types/helms"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+50% Enhanced Defense",
+      "resource_uri" : "/api/v1/properties/1"
+    },
+    {
+      "text" : "+10 Defense",
+      "resource_uri" : "/api/v1/properties/52"
+    },
+    {
+      "text" : "+30 Defense vs. Missiles",
+      "resource_uri" : "/api/v1/properties/45"
+    },
+    {
+      "text" : "Level 13 Cloak of Shadows (9 Charges)",
+      "resource_uri" : "/api/v1/properties/charges/2"
+    },
+    {
+      "text" : "+2 To Mana After Each Kill",
+      "resource_uri" : "/api/v1/properties/16"
+    },
+    {
+      "text" : "+5 Strength",
+      "resource_uri" : "/api/v1/properties/12"
+    },
+    {
+      "text" : "-33% Extra Gold From Monsters",
+      "resource_uri" : "/api/v1/properties/46"
+    },
+    {
+      "text" : "-3 To Light Radius",
+      "resource_uri" : "/api/v1/properties/28"
+    }
+  ]
+},
+
+{
+  "name" : "Radiance",
+  "characterLevel" : "27",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Nef",
+      "resource_uri" : "/api/v1/runes/4"
+    },
+    {
+      "name" : "Sol",
+      "resource_uri" : "/api/v1/runes/12"
+    },
+    {
+      "name" : "Ith",
+      "resource_uri" : "/api/v1/runes/6"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Helms",
+      "resource_uri" : "/api/v1/item_types/helms"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+75% Enhanced Defense",
+      "resource_uri" : "/api/v1/properties/1"
+    },
+    {
+      "text" : "+30 Defense vs. Missiles",
+      "resource_uri" : "/api/v1/properties/45"
+    },
+    {
+      "text" : "+10 To Energy",
+      "resource_uri" : "/api/v1/properties/14"
+    },
+    {
+      "text" : "+10 To Vitality",
+      "resource_uri" : "/api/v1/properties/15"
+    },
+    {
+      "text" : "15% Damage Goes To Mana",
+      "resource_uri" : "/api/v1/properties/56"
+    },
+    {
+      "text" : "Magic Damage Reduced By 3",
+      "resource_uri" : "/api/v1/properties/19"
+    },
+    {
+      "text" : "+33 To Mana",
+      "resource_uri" : "/api/v1/properties/57"
+    },
+    {
+      "text" : "Damage Reduced By 7",
+      "resource_uri" : "/api/v1/properties/53"
+    },
+    {
+      "text" : "+5 To Light Radius",
+      "resource_uri" : "/api/v1/properties/28"
+    }
+  ]
+},
+
+{
+  "name" : "Rhyme",
+  "characterLevel" : "29",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Shael",
+      "resource_uri" : "/api/v1/runes/13"
+    },
+    {
+      "name" : "Eth",
+      "resource_uri" : "/api/v1/runes/5"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Shields",
+      "resource_uri" : "/api/v1/item_types/shields"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "20% Increased Chance Of Blocking",
+      "resource_uri" : "/api/v1/properties/58"
+    },
+    {
+      "text" : "40% Faster Block Rate",
+      "resource_uri" : "/api/v1/properties/47"
+    },
+    {
+      "text" : "All Resistances +25",
+      "resource_uri" : "/api/v1/properties/38"
+    },
+    {
+      "text" : "Regenerate Mana 15%",
+      "resource_uri" : "/api/v1/properties/59"
+    },
+    {
+      "text" : "Cannot Be Frozen",
+      "resource_uri" : "/api/v1/properties/60"
+    },
+    {
+      "text" : "50% Extra Gold From Monsters",
+      "resource_uri" : "/api/v1/properties/46"
+    },
+    {
+      "text" : "25% Better Chance Of Getting Magic Items",
+      "resource_uri" : "/api/v1/properties/50"
+    }
+  ]
+},
+
+
+{
+  "name" : "Silence",
+  "characterLevel" : "55",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "Dol",
+      "resource_uri" : "/api/v1/runes/14"
+    },
+    {
+      "name" : "Eld",
+      "resource_uri" : "/api/v1/runes/2"
+    },
+    {
+      "name" : "Hel",
+      "resource_uri" : "/api/v1/runes/15"
+    },
+    {
+      "name" : "Ist",
+      "resource_uri" : "/api/v1/runes/24"
+    },
+    {
+      "name" : "Tir",
+      "resource_uri" : "/api/v1/runes/3"
+    },
+    {
+      "name" : "Vex",
+      "resource_uri" : "/api/v1/runes/26"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "All Weapons",
+      "resource_uri" : "/api/v1/item_types/all_weapons"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "200% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/2"
+    },
+    {
+      "text" : "+75% Damage To Undead",
+      "resource_uri" : "/api/v1/properties/30"
+    },
+    {
+      "text" : "Requirements -20%",
+      "resource_uri" : "/api/v1/properties/36"
+    },
+    {
+      "text" : "20% Increased Attack Speed",
+      "resource_uri" : "/api/v1/properties/8"
+    },
+    {
+      "text" : "+50 To Attack Rating Against Undead",
+      "resource_uri" : "/api/v1/properties/35"
+    },
+    {
+      "text" : "+2 To All Skills",
+      "resource_uri" : "/api/v1/properties/26"
+    },
+    {
+      "text" : "All Resistances +75",
+      "resource_uri" : "/api/v1/properties/38"
+    },
+    {
+      "text" : "20% Faster Hit Recovery",
+      "resource_uri" : "/api/v1/properties/48"
+    },
+    {
+      "text" : "11% Mana Stolen Per Hit",
+      "resource_uri" : "/api/v1/properties/54"
+    },
+    {
+      "text" : "Hit Causes Monster To Flee 25%",
+      "resource_uri" : "/api/v1/properties/49"
+    },
+    {
+      "text" : "Hit Blinds Target +33",
+      "resource_uri" : "/api/v1/properties/55"
+    },
+    {
+      "text" : "+2 To Mana After Each kill",
+      "resource_uri" : "/api/v1/properties/16"
+    },
+    {
+      "text" : "30% Better Chance Of Getting Magic Items",
+      "resource_uri" : "/api/v1/properties/50"
+    }
+  ]
+},
+
