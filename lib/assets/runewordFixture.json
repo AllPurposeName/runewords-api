@@ -1,0 +1,210 @@
+{
+  "name" : "Malice",
+  "characterLevel" : "15",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "ith",
+      "resource_uri" : "/api/v1/runes/6"
+    },
+    {
+      "name" : "el",
+      "resource_uri" : "/api/v1/runes/1"
+    },
+    {
+      "name" : "eth",
+      "resource_uri" : "/api/v1/runes/5"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "All Melee Weapons",
+      "resource_uri" : "/api/v1/item_types/all_melee_weapons"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+33% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/enhanced_damage"
+    },
+    {
+      "text" : "+9 to Maximum Damage",
+      "resource_uri" : "/api/v1/properties/increase_maximum_damage"
+    },
+    {
+      "text" : "-25% Target Defense",
+      "resource_uri" : "/api/v1/properties/lower_target_defense"
+    },
+    {
+      "text" : "+50 to Attack Rating",
+      "resource_uri" : "/api/v1/properties/increase_attack_rating"
+    },
+    {
+      "text" : "100% Chance of Open wounds",
+      "resource_uri" : "/api/v1/properties/chance_of_open_wounds"
+    },
+    {
+      "text" : "Prevent Monster Heal",
+      "resource_uri" : "/api/v1/properties/prevent_monster_heal"
+    },
+    {
+      "text" : "-100 to Monster Defense Per Hit",
+      "resource_uri" : "/api/v1/properties/decrease_monster_defense_per_hit"
+    },
+    {
+      "text" : "Drain Life -5",
+      "resource_uri" : "/api/v1/properties/drain_life_-5"
+    }
+  ]
+},
+
+{
+  "name" : "Steel",
+  "characterLevel" : "13",
+  "ladderOnly" : "false",
+  "runes" : [
+    {
+      "name" : "tir",
+      "resource_uri" : "/api/v1/runes/3"
+    },
+    {
+      "name" : "el",
+      "resource_uri" : "/api/v1/runes/1"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "Swords",
+      "resource_uri" : "/api/v1/item_types/swords"
+    },
+    {
+      "category" : "Axes",
+      "resource_uri" : "/api/v1/item_types/axes"
+    },
+    {
+      "category" : "Maces",
+      "resource_uri" : "/api/v1/item_types/maces"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "+25% Increased Attack Speed",
+      "resource_uri" : "/api/v1/properties/increased_attack_speed"
+    },
+    {
+      "text" : "+20% Enhanced Damage",
+      "resource_uri" : "/api/v1/properties/enhanced_damage"
+    },
+    {
+      "text" : "+3 to Minimum Damage",
+      "resource_uri" : "/api/v1/properties/increase_minimum_damage"
+    },
+    {
+      "text" : "+3 to Maximum Damage",
+      "resource_uri" : "/api/v1/properties/increase_maximum_damage"
+    },
+    {
+      "text" : "+50 to Attack Rating",
+      "resource_uri" : "/api/v1/properties/increase_attack_rating"
+    },
+    {
+      "text" : "50% Chance of Open Wounds",
+      "resource_uri" : "/api/v1/properties/chance_of_open_wounds"
+    },
+    {
+      "text" : "+2 to Mana after each Kill",
+      "resource_uri" : "/api/v1/properties/mana_after_each_kill"
+    },
+    {
+      "text" : "+1 to Light Radius",
+      "resource_uri" : "/api/v1/properties/light_radius"
+    }
+  ]
+},
+
+{
+  "name" : "Last Wish",
+  "characterLevel" : "65",
+  "ladderOnly" : "true",
+  "runes" : [
+    {
+      "name" : "Jah",
+      "resource_uri" : "/api/v1/runes/31"
+    },
+    {
+      "name" : "Mal",
+      "resource_uri" : "/api/v1/runes/23"
+    },
+    {
+      "name" : "Jah",
+      "resource_uri" : "/api/v1/runes/31"
+    },
+    {
+      "name" : "Sur",
+      "resource_uri" : "/api/v1/runes/29"
+    },
+    {
+      "name" : "Jah",
+      "resource_uri" : "/api/v1/runes/31"
+    },
+    {
+      "name" : "Ber",
+      "resource_uri" : "/api/v1/runes/30"
+    }
+  ],
+  "itemTypes" : [
+    {
+      "category" : "axes",
+      "resource_uri" : "/api/v1/item_types/axes"
+    },
+    {
+      "category" : "hammers",
+      "resource_uri" : "/api/v1/item_types/hammers"
+    },
+    {
+      "category" : "swords",
+      "resource_uri" : "/api/v1/item_types/swords"
+    }
+  ],
+  "properties" : [
+    {
+      "text" : "6% Chance To Cast Level 11 Fade When Struck",
+      "resource_uri" : "/api/v1/properties/when_struck/level_11_fade"
+    },
+    {
+      "text" : "10% Chance To Cast Level 18 Life Tap On Striking",
+      "resource_uri" : "/api/v1/properties/on_striking/level_18_life_tap"
+    },
+    {
+      "text" : "20% Chance To Cast Level 20 Charged Bolt On Attack",
+      "resource_uri" : "/api/v1/properties/on_attack/level_20_charged_bolt"
+    },
+    {
+      "text" : "Level 17 Might Aura When Equipped",
+      "resource_uri" : "/api/v1/properties/aura/level_17_might"
+    },
+    {
+      "text" : "+330-375% Enhanced Damage (varies)",
+      "resource_uri" : "/api/v1/properties/enhanced_damage"
+    },
+    {
+      "text" : "Ignore Target's Defense",
+      "resource_uri" : "/api/v1/properties/ignore_targets_defense"
+    },
+    {
+      "text" : "60-70% Chance of Crushing Blow (varies)",
+      "resource_uri" : "/api/v1/properties/crushing_blow"
+    },
+    {
+      "text" : "Prevent Monster Heal",
+      "resource_uri" : "/api/v1/properties/prevent_monster_heal"
+    },
+    {
+      "text" : "Hit Blinds Target",
+      "resource_uri" : "/api/v1/properties/hit_blinds_target"
+    },
+    {
+      "text" : "(0.5*Clvl)% Chance of Getting Magic Items (Based on Character Level) ]",
+      "resource_uri" : "/api/v1/properties/magic_find"
+    }
+},

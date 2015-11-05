@@ -1,0 +1,1208 @@
+1:
+  name: Ancient's Pledge
+  clvl: 21
+  ladderOnly: false
+  runes:
+    1: 8
+    2: 9
+    3: 7
+  itemtypes:
+    1: 1
+  properties:
+    1: 1
+    2: 2
+    3: 3
+    4: 4
+    5: 5
+    6: 6
+2:
+  name: Black
+  clvl: 35
+  ladderOnly:
+  runes:
+    1: 10
+    2: 16
+    3: 4
+  itemtypes:
+    1: 3
+    2: 4
+    3: 5
+  properties:
+    1: 7
+    2: 8
+    3: 9
+    4: 10
+    5: 11
+    6: 12
+    7: 13
+    8: 14
+    9: 15
+3:
+  name: Fury
+  clvl: 65
+  ladderOnly: false
+  runes:
+    1: 31
+    2: 25
+    3: 5
+  itemtypes:
+    1: 2
+  properties:
+    1: 16
+    2: 17
+    3: 18
+    4: 19
+    5: 20
+    6: 21
+    7: 22
+    8: 23
+    9: 24
+    10: 25
+4:
+  name: Holy Thunder
+  clvl: 21
+  ladderOnly: false
+  runes:
+    1: 5
+    2: 8
+    3: 9
+    4: 7
+  itemtypes:
+    1: 5
+  properties:
+    1: 26
+    2: 22
+    3: 27
+    4: 28
+    5: 29
+    6: 30
+    7: 31
+    8: 32
+    9: 33
+    10: 34
+5:
+  name: Honor
+  clvl: 27
+  ladderOnly: false
+  runes:
+    1: 11
+    2: 1
+    3: 6
+    4: 3
+    5: 12
+  itemtypes:
+    1: 2
+  properties:
+    1: 35
+    2: 36
+    3: 37
+    4: 38
+    5: 39
+    6: 40
+    7: 41
+    8: 42
+    9: 43
+    10: 44
+    11: 45
+6:
+  name: King's Grace
+  clvl: 25
+  ladderOnly: false
+  runes:
+    1: 11
+    2: 8
+    3: 10
+  itemtypes:
+    1: 5
+    2: 6
+  properties:
+    1: 46
+    2: 47
+    3: 48
+    4: 49
+    5: 10
+    6: 51
+    7: 52
+    8: 41
+7:
+  name: Leaf
+  clvl: 19
+  ladderOnly: false
+  runes:
+    1: 3
+    2: 8
+  itemtypes:
+    1: 7
+  properties:
+    1: 49
+    2: 53
+    3: 54
+    4: 55
+    5: 56
+    6: 45
+    7: 58
+8:
+  name: Lionheart
+  clvl: 41
+  ladderOnly: false
+  runes:
+    1: 15
+    2: 17
+    3: 19
+  itemtypes:
+    1: 8
+  properties:
+    1: 59
+    2: 60
+    3: 61
+    4: 62
+    5: 63
+    6: 64
+    7: 65
+    8: 66
+9:
+  name: Lore
+  clvl: 27
+  ladderOnly: false
+  runes:
+    1: 9
+    2: 12
+  itemtypes:
+    1: 9
+  properties:
+    1: 40
+    2: 62
+    3: 45
+    4: 67
+    5: 68
+    6: 69
+10:
+  name: Malice
+  clvl: 15
+  ladderOnly: false
+  runes:
+    1: 6
+    2: 1
+    3: 5
+  itemtypes:
+    1: 2
+  properties:
+    1: 70
+    2: 37
+    3: 71
+    4: 22
+    5: 73
+    6: 18
+    7: 74
+    8: 75
+11:
+  name: Melody
+  clvl: 39
+  ladderOnly: false
+  runes:
+    1: 13
+    2: 18
+    3: 4
+  itemtypes:
+    1: 10
+  properties:
+    1: 1
+    2: 76
+    3: 77
+    4: 78
+    5: 79
+    6: 80
+    7: 81
+    8: 82
+    9: 13
+12:
+  name: Memory
+  clvl: 37
+  ladderOnly: false
+  runes:
+    1: 17
+    2: 16
+    3: 12
+    4: 5
+  itemtypes:
+    1: 7
+  properties:
+    1: 83
+    2: 84
+    3: 85
+    4: 86
+    5: 87
+    6: 62
+    7: 11
+    8: 36
+    9: 22
+    10: 88
+    11: 1
+13:
+  name: Nadir
+  clvl: 13
+  ladderOnly: false
+  runes:
+    1: 4
+    2: 3
+  itemtypes:
+    1: 9
+  properties:
+    1: 1
+    2: 89
+    3: 90
+    4: 91
+    5: 45
+    6: 92
+    7: 93
+    8: 94
+14:
+  name: Radiance
+  clvl: 27
+  ladderOnly: false
+  runes:
+    1: 4
+    2: 12
+    3: 6
+  itemtypes:
+    1: 9
+  properties:
+    1: 95
+    2: 90
+    3: 62
+    4: 11
+    5: 96
+    6: 97
+    7: 98
+    8: 68
+15:
+  name: Rhyme
+  clvl: 29
+  ladderOnly:
+  runes:
+    1: 13
+    2: 5
+  itemtypes:
+    1: 1
+  properties:
+    1: 100
+    2: 101
+    3: 102
+    4: 103
+    5: 104
+    6: 105
+    7: 106
+16:
+  name: Silence
+  clvl: 55
+  ladderOnly: false
+  runes:
+    1: 14
+    2: 1
+    3: 15
+    4: 24
+    5: 3
+    6: 26
+  itemtypes:
+    1: 11
+  properties:
+    1: 107
+    2: 108
+    3: 109
+    4: 81
+    5: 111
+    6: 112
+    7: 113
+    8: 114
+    9: 115
+    10: 116
+    11: 45
+    12: 117
+17:
+  name: Smoke
+  clvl: 37
+  ladderOnly: false
+  runes:
+    1: 4
+    2: 17
+  itemtypes:
+    1: 8
+  properties:
+    1: 95
+    2: 118
+    3: 119
+    4: 113
+    5: 120
+    6: 62
+    7: 121
+18:
+  name: Stealth
+  clvl: 17
+  ladderOnly: false
+  runes:
+    1: 7
+    2: 5
+  itemtypes:
+    1: 8
+  properties:
+    1: 97
+    2: 122
+    3: 123
+    4: 124
+    5: 103
+    6: 125
+    7: 126
+    8: 127
+19:
+  name: Steel
+  clvl: 13
+  ladderOnly: false
+  runes:
+    1: 3
+    2: 1
+  itemtypes:
+    1: 6
+    2: 12
+    3: 4
+  properties:
+    1: 59
+    2: 128
+    3: 129
+    4: 74
+    5: 72
+    6: 130
+    7: 45
+    8: 44
+20:
+  name: Strength
+  clvl: 25
+  ladderOnly: false
+  runes:
+    1: 11
+    2: 3
+  itemtypes:
+    1: 2
+  properties:
+    1: 131
+    2: 132
+    3: 41
+    4: 45
+    5: 133
+    6: 11
+21:
+  name: Venom
+  clvl: 49
+  ladderOnly: false
+  runes:
+    1: 7
+    2: 14
+    3: 23
+  itemtypes:
+    1: 11
+  properties:
+    1: 115
+    2: 18
+    3: 21
+    4: 134
+    5: 135
+    6: 136
+    7: 137
+22:
+  name: Wealth
+  clvl: 43
+  ladderOnly: false
+  runes:
+    1: 20
+    2: 18
+    3: 3
+  itemtypes:
+    1: 8
+  properties:
+    1: 138
+    2: 139
+    3: 45
+    4: 82
+23:
+  name: White
+  clvl: 35
+  ladderOnly: false
+  runes:
+    1: 14
+    2: 16
+  itemtypes:
+    1: 13
+  properties:
+    1: 115
+    2: 11
+    3: 140
+    4: 141
+    5: 142
+    6: 143
+    7: 144
+    8: 145
+    9: 146
+24:
+  name: Zephyr
+  clvl: 21
+  ladderOnly: false
+  runes:
+    1: 9
+    2: 5
+  itemtypes:
+    1: 10
+  properties:
+    1: 70
+    2: 147
+    3: 148
+    4: 22
+    5: 149
+    6: 125
+    7: 130
+    8: 150
+# Original Runewords For Now
+# 25:
+#   name: Beast
+#   clvl: 63
+#   ladderOnly: false
+#   runes:
+#     1: 30
+#     2: 3
+#     3: 22
+#     4: 23
+#     5: 17
+#   itemtypes:
+#     1: 12
+#     2: 5
+#     3: 3
+#   properties:
+#     1: 151
+#     2: 17
+#     3: 152
+#     4: 153
+#     5: 154
+#     6: 155
+#     7: 156
+#     8: 18
+#     9: 157
+#     10: 62
+#     11: 45
+#     12: 158
+# 26:
+#   name: Bramble
+#   clvl: 61
+#   ladderOnly: false
+#   runes:
+#     1: 8
+#     2: 27
+#     3: 29
+#     4: 5
+#   itemtypes:
+#     1: 8
+#   properties:
+#     1: 159
+#     2: 160
+#     3: 161
+#     4: 162
+#     5: 163
+#     6: 103
+#     7: 164
+#     8: 165
+#     9: 166
+#     10: 167
+#     11:
+# 27:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 28:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 29:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 30:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 31:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 32:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 33:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 34:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 35:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 36:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 37:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 38:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 39:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 40:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 41:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 42:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 43:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 44:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 45:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 46:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 47:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 48:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 49:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
+# 50:
+#   name:
+#   clvl:
+#   ladderOnly:
+#   runes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   itemtypes:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#   properties:
+#     1:
+#     2:
+#     3:
+#     4:
+#     5:
+#     6:
+#     7:
+#     8:
+#     9:
+#     10:
