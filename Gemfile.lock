@@ -54,6 +54,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.9.1.1)
+    colorize (0.7.7)
     database_cleaner (1.5.0)
     debug_inspector (0.0.2)
     diff-lcs (1.2.5)
@@ -201,6 +202,7 @@ DEPENDENCIES
   apitome
   codeclimate-test-reporter
   coffee-rails (~> 4.1.0)
+  colorize
   database_cleaner
   factory_girl_rails
   figaro

@@ -1,15 +1,29 @@
 itemTypes:
-  1: Shields
-  2: Melee Weapons
-  2: Clubs
-  3: Hammers
-  4: Maces
-  5: Scepters
-  6: Swords
-  7: Staves
-  8: Body Armor
-  9: Helms
-  10: Missile Weapons
-  11: Weapons
-  12: Axes
-  13: Wands
+  1:
+    name: Shields
+  2:
+    name: Melee Weapons
+  2:
+    name: Clubs
+  3:
+    name: Hammers
+  4:
+    name: Maces
+  5:
+    name: Scepters
+  6:
+    name: Swords
+  7:
+    name: Staves
+  8:
+    name: Body Armor
+  9:
+    name: Helms
+  10:
+    name: Missile Weapons
+  11:
+    name: Weapons
+  12:
+    name: Axes
+  13:
+    name: Wands
