@@ -14,21 +14,19 @@ namespace :data do
     props_yml      = YAML.load_file(props_file)
     item_types_yml = YAML.load_file(item_types_file)
     runewords_yml  = YAML.load_file(runewords_file)
-    runes_yml["runes"].each do |id, data|
-      obj = Rune.create!(id: id, name: data["name"])
-      puts_created(obj)
+
+    populate = lambda do |id, data|
+      data["id"] = id
+      k = @klass.create!(data)
+      puts_created(k)
     end
-    props_yml["properties"].each do |id, data|
-      obj = Property.create!(id: id,
-                       name: data["name"],
-                       group: data["group"],
-                       category: data["category"])
-      puts_created(obj)
-    end
-    item_types_yml["itemTypes"].each do |id, data|
-      obj = ItemType.create!(id: id, name: data["name"])
-      puts_created(obj)
-    end
+
+    @klass = Rune
+    runes_yml["runes"].each(&populate)
+    @klass = Property
+    props_yml["properties"].each(&populate)
+    @klass = ItemType
+    item_types_yml["itemTypes"].each(&populate)
     runewords_yml.each do |id, data|
       runeword = Runeword.create!(id: id,
                                   name: data["name"],
