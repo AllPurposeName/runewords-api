@@ -1,673 +1,673 @@
 properties:
   1:
     name: 50% Enhanced Defense
-    type: normal
+    group: normal
     category: enhanced defense
   2:
     name: Cold Resist +43%
-    type: normal
+    group: normal
     category: resistances
   3:
     name: Fire Resist +48%
-    type: normal
+    group: normal
     category: resistances
   4:
     name: Lightning Resist +48%
-    type: normal
+    group: normal
     category: resistances
   5:
     name: Poison Resist +48%
-    type: normal
+    group: normal
     category: resistances
   6:
     name: 10% Damage Taken Goes To Mana
-    type: normal
+    group: normal
     category: damage taken goes to mana
   7:
     name: +120% Enhanced Damage
-    type: normal
+    group: normal
     category: enhanced damage
   8:
     name: 40% Of Crushing Blow
-    type: normal
+    group: normal
     category: crushing blow
   9:
     name: +200 To Attack Rating
-    type: normal
+    group: normal
     category: attack rating
   10:
     name: Adds 3-14 Cold Damage
-    type: normal
+    group: normal
     category: cold damage
   11:
     name: +10 To Vitality
-    type: normal
+    group: normal
     category: stats
   12:
     name: 15% Increased Attack Speed
-    type: normal
+    group: normal
     category: increased attack speed
   13:
     name: Knockback
-    type: normal
+    group: normal
     category: knockback
   14:
     name: Magic Damage Reduced By 2
-    type: normal
+    group: normal
     category: magic damage reduction
   15:
     name: Level 4 Corpse Explosion (12 Charges)
-    type: charges
+    group: charges
     category: corpse explosion
   16:
     name: +209% Enhanced Damage
-    type: normal
+    group: normal
     category: enhanced damage
   17:
     name: 40% Increased Attack Speed
-    type: normal
+    group: normal
     category: increased attack speed
   18:
     name: Prevent Monster Heal
-    type: normal
+    group: normal
     category: prevent monster heal
   19:
     name: 66% Chance Of Open Wounds
-    type: normal
+    group: normal
     category: open wounds
   20:
     name: 33% Deadly Strike
-    type: normal
+    group: normal
     category: deadly strike
   21:
     name: Ignore Targets Defense
-    type: normal
+    group: normal
     category: ignore targets defense
   22:
     name: -25% Target Defense
-    type: normal
+    group: normal
     category: reduce target defense
   23:
     name: 20% Bonus To Attack Rating
-    type: normal
+    group: normal
     category: bonus to attack rating
   24:
     name: 6% Life Stolen Per Hit
-    type: normal
+    group: normal
     category: leech
   25:
     name: +5 to Frenzy (Barbarian Only)
-    type: skills
+    group: skills
     category: frenzy
   26:
     name: +60% Enhanced Damage
-    type: normal
+    group: normal
     category: enhanced damage
   27:
     name: Adds 5-35 Fire Damage
-    type: normal
+    group: normal
     category: fire damage
   28:
     name: Adds 21-110 Lightning Damage
-    type: normal
+    group: normal
     category: lightning damage
   29:
     name: +75 Poison Damage Over 5 Seconds
-    type: normal
+    group: normal
     category: poison damage
   30:
     name: +10 To Maximum Damage
-    type: normal
+    group: normal
     category: maximum damage
   31:
     name: Lightning Resist +60%
-    type: normal
+    group: normal
     category: resistances
   32:
     name: +5 To Maximum Lightning Resist
-    type: normal
+    group: normal
     category: max resistances
   33:
     name: +3 To Holy Shock (Paladin Only)
-    type: skills
+    group: skills
     category: holy shock
   34:
     name: Level 7 Chain Lightning (60 Charges)
-    type: charges
+    group: charges
     category: chain lightning
   35:
     name: +160% Enhanced Damage
-    type: normal
+    group: normal
     category: enhanced damage
   36:
     name: +9 To Minimum Damage
-    type: normal
+    group: normal
     category: minimum damage
   37:
     name: +9 To Maximum Damage
-    type: normal
+    group: normal
     category: maximum damage
   38:
     name: 25% Deadly Strike
-    type: normal
+    group: normal
     category: deadly strike
   39:
     name: +250 To Attack Rating
-    type: normal
+    group: normal
     category: attack rating
   40:
     name: +1 To All Skills
-    type: skills
+    group: skills
     category: all skills
   41:
     name: +7% Life Stolen Per Hit
-    type: normal
+    group: normal
     category: leech
   42:
     name: Replenish Life +10
-    type: normal
+    group: normal
     category: replenish life
   43:
     name: +10 To Strength
-    type: normal
+    group: normal
     category: stats
   44:
     name: +1 To Light Radius
-    type: normal
+    group: normal
     category: light radius
   45:
     name: +2 To Mana After Each Kill
-    type: normal
+    group: normal
     category: mana after each kill
   46:
     name: +100% Enhanced Damage
-    type: normal
+    group: normal
     category: enhanced damage
   47:
     name: +100% Damage To Demons
-    type: normal
+    group: normal
     category: damage to demons
   48:
     name: +50% Damage To Undead
-    type: normal
+    group: normal
     category: damage to undead
   49:
     name: Adds 5-30 Fire Damage
-    type: normal
+    group: normal
     category: fire damage
   50:
     name: +150 To Attack Rating
-    type: normal
+    group: normal
     category: attack rating
   51:
     name: +100 To Attack Rating Against Demons
-    type: normal
+    group: normal
     category: attack rating against demons
   52:
     name: +100 To Attack Rating Against Undead
-    type: normal
+    group: normal
     category: attack rating against undead
   53:
     name: +3 To Fire Skills
-    type: skills
+    group: skills
     category: fire skills
   54:
     name: +3 To Fire Bolt (Sorceress Only)
-    type: skills
+    group: skills
     category: fire bolt
   55:
     name: +3 To Inferno (Sorceress Only)
-    type: skills
+    group: skills
     category: inferno
   56:
     name: +3 To Warmth (Sorceress Only)
-    type: skills
+    group: skills
     category: warmth
   57:
     name: +2-198 To Defense (+2 Per Character Level)
-    type: normal
+    group: normal
     category: defense
   58:
     name: Cold Resist +33%
-    type: normal
+    group: normal
     category: resistances
   59:
     name: +20% Enhanced Damage
-    type: normal
+    group: normal
     category: enhanced damage
   60:
     name: Requirements -15%
-    type: normal
+    group: normal
     category: requirements
   61:
     name: +25 To Strength
-    type: normal
+    group: normal
     category: stats
   62:
     name: +10 To Energy
-    type: normal
+    group: normal
     category: stats
   63:
     name: +20 To Vitality
-    type: normal
+    group: normal
     category: stats
   64:
     name: +15 To Dexterity
-    type: normal
+    group: normal
     category: stats
   65:
     name: +50 To Life
-    type: normal
+    group: normal
     category: life
   66:
     name: All Resistances +30
-    type: normal
+    group: normal
     category: resistances
   67:
     name: Lightning Resist +30%
-    type: normal
+    group: normal
     category: resistances
   68:
     name: Damage Reduced By 7
-    type: normal
+    group: normal
     category: damage reduction
   69:
     name: +2 To Light Radius
-    type: normal
+    group: normal
     category: light radius
   70:
     name: +33% Enhanced Damage
-    type: normal
+    group: normal
     category: enhanced damage
   71:
     name: 100% Chance Of Open Wounds
-    type: normal
+    group: normal
     category: open wounds
   72:
     name: 50% Chance Of Open Wounds
-    type: normal
+    group: normal
     category: open wounds
   73:
     name: -100 To Monster Defense Per Hit
-    type: normal
+    group: normal
     category: reduce monster defense per hit
   74:
     name: +50 To Attack Rating
-    type: normal
+    group: normal
     category: attack rating
   75:
     name: Drain Life -5
-    type: normal
+    group: normal
     category: drain life
   76:
     name: +300% Damage To Undead
-    type: normal
+    group: normal
     category: damage to undead
   77:
     name: +3 To Bow And Crossbow Skills (Amazon Only)
-    type: skills
+    group: skills
     category: bow and crossbow skills
   78:
     name: +3 To Critical Strike (Amazon Only)
-    type: skills
+    group: skills
     category: critical strike
   79:
     name: +3 To Dodge (Amazon Only)
-    type: skills
+    group: skills
     category: dodge
   80:
     name: +3 To Slow Missiles (Amazon Only)
-    type: skills
+    group: skills
     category: slow missiles
   81:
     name: 20% Increased Attack Speed
-    type: normal
+    group: normal
     category: increased attack speed
   82:
     name: +10 To Dexterity
-    type: normal
+    group: normal
     category: stats
   83:
     name: +3 To Sorceress Skills (Sorceress Only)
-    type: skills
+    group: skills
     category: sorceress skills
   84:
     name: 33% Faster Cast Rate
-    type: normal
+    group: normal
     category: faster cast rate
   85:
     name: Increase Maximum Mana 20%
-    type: normal
+    group: normal
     category: increase maximum mana
   86:
     name: +3 To Energy Shield
-    type: skills
+    group: skills
     category: energy shield
   87:
     name: +2 To Static Field
-    type: skills
+    group: skills
     category: static field
   88:
     name: Magic Damage Reduced By 7
-    type: normal
+    group: normal
     category: magic damage reduction
   89:
     name: +10 To Defense
-    type: normal
+    group: normal
     category: defense
   90:
     name: +30 Defense vs. Missiles
-    type: normal
+    group: normal
     category: defense vs missiles
   91:
     name: Level 13 Cloak Of Shadows (9 Charges)
-    type: charges
+    group: charges
     category: cloak of shadows
   92:
     name: +5 To Strength
-    type: normal
+    group: normal
     category: stats
   93:
     name: -33% Extra Gold From Monsters
-    type: normal
+    group: normal
     category: extra gold from monsters
   94:
     name: -3 To Light Radius
-    type: normal
+    group: normal
     category: light radius
   95:
     name: +75% Enhanced Defense
-    type: normal
+    group: normal
     category: enhanced defense
   96:
     name: 15% Damage Taken Goes To Mana
-    type: normal
+    group: normal
     category: damage taken goes to mana
   97:
     name: Magic Damage Reduced By 3
-    type: normal
+    group: normal
     category: magic damage reduction
   98:
     name: +33 To Mana
-    type: normal
+    group: normal
     category: mana
   99:
     name: +5 Light Radius
-    type: normal
+    group: normal
     category: light radius
   100:
     name: 20% Increased Chance Of Blocking
-    type: normal
+    group: normal
     category: increased chance of blocking
   101:
     name: 40% Faster Block Rate
-    type: normal
+    group: normal
     category: faster block rate
   102:
     name: All Resistances +25
-    type: normal
+    group: normal
     category: resistances
   103:
     name: Regenerate Mana 15%
-    type: normal
+    group: normal
     category: regenerate mana
   104:
     name: Cannot Be Frozen
-    type: normal
+    group: normal
     category: cannot be frozen
   105:
     name: +50% Extra Gold From Monsters
-    type: normal
+    group: normal
     category: extra gold from monsters
   106:
     name: 25% Better Chance Of Getting Magic Items
-    type: normal
+    group: normal
     category: magic find
   107:
     name: +200% Enhanced Damage
-    type: normal
+    group: normal
     category: enhanced damage
   108:
     name: +75% Damage To Undead
-    type: normal
+    group: normal
     category: damage to undead
   109:
     name: Requirements -20%
-    type: normal
+    group: normal
     category: requirements
   110:
     name: +50 To Attack Rating Against Undead
-    type: normal
+    group: normal
     category: attack rating against undead
   111:
     name: +2 To All Skills
-    type: skills
+    group: skills
     category: all skills
   112:
     name: All Resistances +75
-    type: normal
+    group: normal
     category: resistances
   113:
     name: 20% Faster Hit Recovery
-    type: normal
+    group: normal
     category: faster hit recovery
   114:
     name: 11% Mana Stolen Per Hit
-    type: normal
+    group: normal
     category: bat
   115:
     name: Hit Causes Monster To Flee 25%
-    type: normal
+    group: normal
     category: hit causes monster to flee
   116:
     name: Hit Blinds Target +33
-    type: normal
+    group: normal
     category: hit blinds target
   117:
     name: 30% Better Chance Of Getting Magic Items
-    type: normal
+    group: normal
     category: magic find
   118:
     name: +280 Defense vs. Missiles
-    type: normal
+    group: normal
     category: defense vs missiles
   119:
     name: All Resistances +50
-    type: normal
+    group: normal
     category: resistances
   120:
     name: Level 6 Weaken (18 Charges)
-    type: charges
+    group: charges
     category: weaken
   121:
     name: -1 To Light Radius
-    type: normal
+    group: normal
     category: light radius
   122:
     name: +6 To Dexterity
-    type: normal
+    group: normal
     category: stats
   123:
     name: +15 To Maximum Stamina
-    type: normal
+    group: normal
     category: maximum stamina
   124:
     name: Poison Resist +30%
-    type: normal
+    group: normal
     category: resistances
   125:
     name: 25% Faster Run/Walk Rate
-    type: normal
+    group: normal
     category: faster run/walk rate
   126:
     name: 25% Faster Cast Rate
-    type: normal
+    group: normal
     category: faster cast rate
   127:
     name: 25% Faster Hit Recovery
-    type: normal
+    group: normal
     category: faster hit recovery
   128:
     name: +3 To Minimum Damage
-    type: normal
+    group: normal
     category: minimum damage
   129:
     name: +3 To Maximum Damage
-    type: normal
+    group: normal
     category: maximum damage
   130:
     name: 25% Increased Attack Speed
-    type: normal
+    group: normal
     category: increased attack speed
   131:
     name: +35% Enhanced Damage
-    type: normal
+    group: normal
     category: enhanced damage
   132:
     name: 25% Of Crushing Blow
-    type: normal
+    group: normal
     category: crushing blow
   133:
     name: +20 To Strength
-    type: normal
+    group: normal
     category: stats
   134:
     name: 7% Mana Stolen Per Hit
-    type: normal
+    group: normal
     category: bat
   135:
     name: Level 15 Poison Explosion (27 Charges)
-    type: charges
+    group: charges
     category: posion explosion
   136:
     name: Level 13 Poison Nova (11 Charges)
-    type: charges
+    group: charges
     category: posion nova
   137:
     name: +273 Poison Damage Over 6 Seconds
-    type: normal
+    group: normal
     category: poison damage
   138:
     name: +300% Extra Gold From Monsters
-    type: normal
+    group: normal
     category: extra gold from monsters
   139:
     name: 100% Better Chance Of Getting Magic Items
-    type: normal
+    group: normal
     category: magic find
   140:
     name: +3 To Poison And Bone Spells (Necromancer Only)
-    type: skills
+    group: skills
     category: poison and bone spells
   141:
     name: +3 To Bone Armor (Necromancer Only)
-    type: skills
+    group: skills
     category: bone armor
   142:
     name: +2 To Bone Spear (Necromancer Only)
-    type: skills
+    group: skills
     category: bone spear
   143:
     name: +4 To Skeleton Mastery (Necromancer Only)
-    type: skills
+    group: skills
     category: skeleton mastery
   144:
     name: Magic Damage Reduced By 4
-    type: normal
+    group: normal
     category: magic damage reduction
   145:
     name: 20% Faster Cast Rate
-    type: normal
+    group: normal
     category: faster cast rate
   146:
     name: +13 To Mana
-    type: normal
+    group: normal
     category: mana
   147:
     name: +66 To Attack Rating
-    type: normal
+    group: normal
     category: attack rating
   148:
     name: Adds 1-50 Lightning Damage
-    type: normal
+    group: normal
     category: lightning damage
   149:
     name: +25 Defense
-    type: normal
+    group: normal
     category: defense
   150:
     name: 7% Chance To Cast Level 1 Twister When Struck
-    type: whenStruck
+    group: whenStruck
     category: twister
   151:
     name: Level 9 Fanaticism Aura When Equipped
-    type: aura
+    group: aura
     category: fanaticism
   152:
     name: +240-270% Enhanced Damage
-    type: normal
+    group: normal
     category: enhanced damage
   153:
     name: 20% Of Crushing Blow
-    type: normal
+    group: normal
     category: crushing blow
   154:
     name: 25% Chance Of Open Wounds
-    type: normal
+    group: normal
     category: open wounds
   155:
     name: +3 To Wereboar
-    type: skills
+    group: skills
     category: wereboar
   156:
     name: +3 To Lycanthropy
-    type: skills
+    group: skills
     category: lycanthropy
   157:
     name: +25-40 To Strength
-    type: normal
+    group: normal
     category: stats
   158:
     name: Level 13 Summon Grizzly (5 Charges)
-    type: charges
+    group: charges
     category: summon grizzly
   # 159:
   #   name: Level 15-21 Thorns Aura When Equipped
-  #   type: aura
+  #   group: aura
   #   category: thorns
   # 160:
   #   name: 50% Faster Hit Recovery
-  #   type: normal
+  #   group: normal
   #   category: faster hit recovery
   # 161:
   #   name: 25-50% To Poison Skill Damage
-  #   type: skills
+  #   group: skills
   #   category: poison skill damage
   # 162:
   #   name: +300 Defense
-  #   type: normal
+  #   group: normal
   #   category: defense
   # 163:
   #   name: Increase Maximum Mana 5%
-  #   type: normal
+  #   group: normal
   #   category: increase maximum mana
   # 164:
   #   name: +5 To Maximum Cold Resist
-  #   type: normal
+  #   group: normal
   #   category: max resistances
   # 165:
   #   name: Fire Resist +30%
-  #   type: normal
+  #   group: normal
   #   category: resistances
   # 166:
   #   name: Poison Resist +100%
-  #   type: normal
+  #   group: normal
   #   category: resistances
   # 167:
   #   name: +13 Life After Each Kill
-  #   type: normal
+  #   group: normal
   #   category: life after each kill
   # 168:
   #   name: Level 13 Spirit Of Barbs (33 Charges)
-  #   type: charges
+  #   group: charges
   #   category: spirit of barbs

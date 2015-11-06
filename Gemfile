@@ -21,6 +21,9 @@ group :development, :test do
   gem 'pry-rails'
   gem 'rspec-rails', '~> 3.0'
 end
+group :development do
+  gem 'colorize'
+end
 group :test do
   gem "codeclimate-test-reporter"
   gem "database_cleaner"
