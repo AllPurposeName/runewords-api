@@ -6,7 +6,8 @@ Rails.application.routes.draw do
         get :properties
         get :item_types
       end
-      resources :runes, only: [:index] do
+      resources :runes, only: [:index, :show] do
+        get :runewords
       end
     end
   end

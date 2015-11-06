@@ -21,4 +21,26 @@ resource "Runes" do
       end
     end
   end
+
+  context "#show" do
+    get "#{root_path}/runes/:id" do
+      let!(:id) { Rune.first.id }
+      example_request "returns all runes" do
+
+        expect(status).to eq(200)
+        expect(response_body).to eq(Rune.first.to_json)
+      end
+    end
+  end
+
+  context "#runewords" do
+    get "#{root_path}/runes/:id/runewords" do
+      let!(:id) { Rune.first.id }
+      example_request "returns all runes" do
+
+        expect(status).to eq(200)
+        expect(response_body).to eq(Rune.first.runewords.to_json)
+      end
+    end
+  end
 end
