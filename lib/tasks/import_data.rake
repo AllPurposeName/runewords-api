@@ -27,7 +27,7 @@ namespace :data do
     props_yml["properties"].each(&populate)
     @klass = ItemType
     item_types_yml["itemTypes"].each(&populate)
-    runewords_yml.each do |id, data|
+    runewords_yml["runewords"].each do |id, data|
       runeword = Runeword.create!(id: id,
                                   name: data["name"],
                                   character_level: data["clvl"],
