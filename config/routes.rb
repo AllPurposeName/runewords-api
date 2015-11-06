@@ -3,6 +3,8 @@ Rails.application.routes.draw do
     namespace :v1 do
       resources :runewords, only: [:index, :show] do
         get :runes
+        get :properties
+        get :item_types
       end
     end
   end

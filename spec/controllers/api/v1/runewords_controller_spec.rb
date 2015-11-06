@@ -43,4 +43,26 @@ resource "Runewords" do
       end
     end
   end
+
+  context "#properties" do
+    get "#{root_path}/runewords/:id/properties" do
+      let!(:id) { Runeword.first.id }
+      example_request "returns the properties associated with the runeword" do
+
+        expect(status).to eq(200)
+        expect(response_body).to eq(Property.all.to_json)
+      end
+    end
+  end
+
+  context "#item_types" do
+    get "#{root_path}/runewords/:id/item_types" do
+      let!(:id) { Runeword.first.id }
+      example_request "returns the item types associated with the runeword" do
+
+        expect(status).to eq(200)
+        expect(response_body).to eq(ItemType.all.to_json)
+      end
+    end
+  end
 end
