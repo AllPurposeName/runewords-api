@@ -32,4 +32,15 @@ resource "Runewords" do
       end
     end
   end
+
+  context "#runes" do
+    get "#{root_path}/runewords/:id/runes" do
+      let!(:id) { Runeword.first.id }
+      example_request "returns the runes associated with the runeword" do
+
+        expect(status).to eq(200)
+        expect(response_body).to eq(Rune.all.to_json)
+      end
+    end
+  end
 end
