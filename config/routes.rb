@@ -9,6 +9,13 @@ Rails.application.routes.draw do
       resources :runes, only: [:index, :show] do
         get :runewords
       end
+      resources :properties, only: [:index, :show] do
+        get :runes
+        get :runewords
+      end
+      resources :item_types, only: [:index, :show] do
+        get :runewords
+      end
     end
   end
 end
