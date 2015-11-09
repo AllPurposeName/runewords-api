@@ -3,15 +3,7 @@ class Api::V1::ItemTypesController < Api::V1::BaseController
     ItemType
   end
 
-  def index
-    render json: ItemType.all || error
-  end
-
-  def show
-    render json: ItemType.find_by(id: params[:id]) || error
-  end
-
   def runewords
-    render json: ItemType.find_by(id: params[:item_type_id]).runewords || error
+    render_json ItemType.find_by(id: params[:item_type_id]).runewords
   end
 end

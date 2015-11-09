@@ -3,23 +3,15 @@ class Api::V1::RunewordsController < Api::V1::BaseController
     Runeword
   end
 
-  def index
-    render json: Runeword.all || error
-  end
-
-  def show
-    render json: Runeword.find_by(id: params[:id]) || error
-  end
-
   def runes
-    render json: Runeword.find_by(id: params[:runeword_id]).runes || error
+    render_json Runeword.find_by(id: params[:runeword_id]).runes
   end
 
   def properties
-    render json: Runeword.find_by(id: params[:runeword_id]).properties || error
+    render_json Runeword.find_by(id: params[:runeword_id]).properties
   end
 
   def item_types
-    render json: Runeword.find_by(id: params[:runeword_id]).item_types || error
+    render_json Runeword.find_by(id: params[:runeword_id]).item_types
   end
 end
