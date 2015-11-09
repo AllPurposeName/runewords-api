@@ -15,11 +15,6 @@ namespace :data do
     item_types_yml = YAML.load_file(item_types_file)
     runewords_yml  = YAML.load_file(runewords_file)
 
-    populate = lambda do |id, data|
-      data["id"] = id
-      k = @klass.create!(data)
-      puts_created(k)
-    end
 
     @klass = Rune
     runes_yml["runes"].each(&populate)
@@ -36,6 +31,14 @@ namespace :data do
       runeword.item_types << data["itemTypes"].values.map { |i| ItemType.find(i)}
       runeword.properties << data["properties"].values.map { |p| Property.find(p)}
       puts_created(runeword)
+    end
+  end
+
+  def populate
+    lambda do |id, data|
+      data["id"] = id
+      k = @klass.create!(data)
+      puts_created(k)
     end
   end
 
