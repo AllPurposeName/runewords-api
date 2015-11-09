@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'responders'
 gem 'figaro'
+gem 'colorize'
 
 group :development, :test do
   gem 'web-console', '~> 2.0'
@@ -20,9 +21,6 @@ group :development, :test do
   gem 'puma'
   gem 'pry-rails'
   gem 'rspec-rails', '~> 3.0'
-end
-group :development do
-  gem 'colorize'
 end
 group :test do
   gem "codeclimate-test-reporter"
