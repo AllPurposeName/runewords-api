@@ -35,7 +35,7 @@ namespace :data do
   end
 
   def populate
-    lambda do |id, data|
+    proc do |id, data|
       data["id"] = id
       k = @klass.create!(data)
       puts_created(k)
