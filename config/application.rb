@@ -16,5 +16,9 @@ Bundler.require(*Rails.groups)
 module Runewords
   class Application < Rails::Application
     config.active_record.raise_in_transactional_callbacks = true
+    config.action_dispatch.default_headers = {
+      'Access-Control-Allow-Origin' => '*',
+      'Access-Control-Request-Method' => %w{GET JSONP OPTIONS}.join(",")
+    }
   end
 end
