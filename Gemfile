@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'responders'
 gem 'figaro'
 gem 'colorize'
+gem "active_model_serializers"
 
 group :development, :test do
   gem 'web-console', '~> 2.0'
