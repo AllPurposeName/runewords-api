@@ -26,8 +26,10 @@ class Api::V1::BaseController < ApplicationController
   end
 
   def error_message
-    { error: "#{model_class} record #{parameters.first.last} not found",
-      status: 404 }
+    {
+      error: "#{model_class} record #{parameters.first.last} not found",
+      status: 404
+    }
   end
 
   def parameters
