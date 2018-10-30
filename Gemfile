@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'pg', '~> 0.15'
 gem 'active_model_serializers'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'colorize'
 gem 'figaro'
 gem 'jbuilder', '~> 2.0'
 gem 'jquery-rails'
+gem 'pg', '~> 0.15'
 gem 'rails', '4.2.8'
 gem 'rake', '12.3.1'
 gem 'responders'
@@ -29,6 +29,6 @@ end
 
 group :test do
   gem 'database_cleaner'
-  gem 'simplecov', require: false
   gem 'match_json'
+  gem 'simplecov', require: false
 end
