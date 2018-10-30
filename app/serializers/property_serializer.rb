@@ -1,3 +1,7 @@
 class PropertySerializer < ActiveModel::Serializer
-  attributes :name, :group, :category
+  attributes(
+    :category,
+    :group,
+    :name
+  )
 end

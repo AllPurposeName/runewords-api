@@ -1,3 +1,5 @@
 class RuneSerializer < ActiveModel::Serializer
-  attributes :name
+  attributes(
+    :name
+  )
 end
