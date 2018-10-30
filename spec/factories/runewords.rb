@@ -1,4 +1,4 @@
-FactoryGirl.define do
+FactoryBot.define do
   factory :runeword do
     name "King's Grace"
     character_level 29

@@ -1,4 +1,4 @@
-FactoryGirl.define do
+FactoryBot.define do
   # Malice's runes
   factory :ith, class: Rune do
     name "ith"
