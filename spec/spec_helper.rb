@@ -1,4 +1,4 @@
-require "factory_girl_rails"
+require "factory_bot_rails"
 require "codeclimate-test-reporter"
 CodeClimate::TestReporter.start
 
@@ -34,12 +34,12 @@ RSpec.configure do |config|
     DatabaseCleaner.clean
   end
 
-  config.include FactoryGirl::Syntax::Methods
+  config.include FactoryBot::Syntax::Methods
 
   config.before(:suite) do
     begin
       DatabaseCleaner.start
-      FactoryGirl.lint
+      FactoryBot.lint
     ensure
       DatabaseCleaner.clean
     end

@@ -15,7 +15,7 @@ gem 'uglifier', '>= 1.3.0'
 
 group :development, :test do
   gem 'apitome'
-  gem 'factory_girl_rails'
+  gem 'factory_bot_rails'
   gem 'pry-rails', require: false
   gem 'puma'
   gem 'rspec-rails', '~> 3.0'
