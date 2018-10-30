@@ -6,5 +6,5 @@ RspecApiDocumentation.configure do |config|
   config.format = [:json]
   config.curl_host = 'http://localhost:3000'
   config.keep_source_order = true
-  config.api_name = "Runewords API V1"
+  config.api_name = 'Runewords API V1'
 end

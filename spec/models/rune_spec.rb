@@ -1,16 +1,16 @@
 require 'rails_helper'
 
 RSpec.describe Rune, type: :model do
-  describe "#name" do
+  describe '#name' do
     it "returns it's name" do
-      name = "Tal"
+      name = 'Tal'
       Rune.create(name: name)
 
       expect(Rune.first.name).to eq(name)
     end
   end
 
-  describe "#character_level" do
+  describe '#character_level' do
     it "returns it's clvl" do
       clvl = 53
       Rune.create(character_level: clvl)
@@ -19,10 +19,10 @@ RSpec.describe Rune, type: :model do
     end
   end
 
-  describe "#runewords" do
-    it "returns a list of associated runewords" do
-      rw_one_name = "Malice"
-      rw_two_name = "Fury"
+  describe '#runewords' do
+    it 'returns a list of associated runewords' do
+      rw_one_name = 'Malice'
+      rw_two_name = 'Fury'
       rw_one = Runeword.create(name: rw_one_name)
       rw_two = Runeword.create(name: rw_two_name)
 

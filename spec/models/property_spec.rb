@@ -1,28 +1,28 @@
 require 'rails_helper'
 
 RSpec.describe Property, type: :model do
-  describe "#name" do
+  describe '#name' do
     it "returns it's name" do
-      name = "30% Enhanced Defense"
+      name = '30% Enhanced Defense'
       Property.create(name: name)
 
       expect(Property.first.name).to eq(name)
     end
   end
-  describe "#description" do
+  describe '#description' do
     it "returns it's description" do
-      desc = "Increases the defence of the base item by 30%"
+      desc = 'Increases the defence of the base item by 30%'
       Property.create(description: desc)
 
       expect(Property.first.description).to eq(desc)
     end
   end
-  describe "#runewords" do
-    it "returns a list of associated runewords" do
-      rw_one_name   = "Gloom"
-      rw_two_name   = "Enlightenment"
-      rw_three_name = "Heart of the Oak"
-      rw_four_name  = "Stone"
+  describe '#runewords' do
+    it 'returns a list of associated runewords' do
+      rw_one_name   = 'Gloom'
+      rw_two_name   = 'Enlightenment'
+      rw_three_name = 'Heart of the Oak'
+      rw_four_name  = 'Stone'
 
       rw_one   = Runeword.create(name: rw_one_name)
       rw_two   = Runeword.create(name: rw_two_name)
