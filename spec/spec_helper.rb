@@ -1,9 +1,4 @@
-require "factory_bot_rails"
-require "codeclimate-test-reporter"
-CodeClimate::TestReporter.start
-
-require "simplecov"
-SimpleCov.start
+require 'factory_bot_rails'
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
@@ -19,10 +14,10 @@ RSpec.configure do |config|
   end
 
   config.before(:each) do
-    DatabaseCleaner.strategy = :transaction
+    DatabaseCleaner.strategy = :truncation
   end
 
-  config.before(:each, :js => true) do
+  config.before(:each, js: true) do
     DatabaseCleaner.strategy = :truncation
   end
 
