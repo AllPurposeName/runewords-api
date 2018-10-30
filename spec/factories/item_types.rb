@@ -1,5 +1,5 @@
 FactoryBot.define do
   factory :item_type do
-    name "Swords"
+    name { "Swords" }
   end
 end
