@@ -1,4 +1,4 @@
-class CreateRunewords < ActiveRecord::Migration
+class CreateRunewords < ActiveRecord::Migration[4.2]
   def change
     create_table :runewords do |t|
       t.string :name

@@ -1,4 +1,4 @@
-class CreateJoinTableRunewordsItemTypes < ActiveRecord::Migration
+class CreateJoinTableRunewordsItemTypes < ActiveRecord::Migration[4.2]
   def change
     create_join_table :runewords, :item_types do |t|
       # t.index [:runeword_id, :item_type_id]
